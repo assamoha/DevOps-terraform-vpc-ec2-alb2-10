@@ -1,5 +1,5 @@
 resource "aws_security_group" "sg1" {
-  name        = "Jenkins-J-sg"
+  name        = "JTerraform-Sg"
   description = "Allow ssh and httpd"
   vpc_id      = aws_vpc.vpc1.id
 
