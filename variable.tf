@@ -6,6 +6,6 @@ variable "REGION" {
   
 }
 
-#/ variable "INSTANCE_TYPE" {
+# variable "INSTANCE_TYPE" {
   
-} /#
+} #
